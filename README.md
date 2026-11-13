@@ -40,3 +40,9 @@ using GitHub branches, pull requests, and code reviews.
 - Monitor weekly learning goals.
 - Identify topics that need revision.
 - Review academic progress regularly.
+
+## Note Organization Fix
+
+- Keep notes grouped under the correct subject.
+- Use consistent titles for all study notes.
+- Avoid duplicate entries when organizing notes.
