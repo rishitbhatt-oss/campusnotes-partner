@@ -1,9 +1,7 @@
-# Temporary files
-*.tmp
-
-# Operating system files
 .DS_Store
 
 # Editor files
 .vscode/
 
+# Log files
+*.log
