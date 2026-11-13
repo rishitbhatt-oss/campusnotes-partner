@@ -46,3 +46,10 @@ using GitHub branches, pull requests, and code reviews.
 - Keep notes grouped under the correct subject.
 - Use consistent titles for all study notes.
 - Avoid duplicate entries when organizing notes.
+
+## How to Use CampusNotes
+
+1. Select the subject for which you want to organize notes.
+2. Create or add notes under the selected subject.
+3. Use study planning to schedule weekly learning goals.
+4. Track completed topics and review pending topics.
