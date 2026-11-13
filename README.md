@@ -33,3 +33,10 @@ using GitHub branches, pull requests, and code reviews.
 - Submit changes through a pull request.
 - Review the proposed changes before merging.
 - Maintain project quality through collaboration.
+
+## Study Progress Tracking
+
+- Track completed study topics.
+- Monitor weekly learning goals.
+- Identify topics that need revision.
+- Review academic progress regularly.
